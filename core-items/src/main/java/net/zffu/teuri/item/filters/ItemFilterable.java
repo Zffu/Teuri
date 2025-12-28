@@ -1,4 +1,4 @@
-package net.zffu.teuri.item;
+package net.zffu.teuri.item.filters;
 
 import org.bukkit.inventory.ItemStack;
 import org.jetbrains.annotations.NotNull;
